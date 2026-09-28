@@ -1,0 +1,7 @@
+user_id	name	email	title	created_at
+1	Alex Johnson	alex@example.com	First Post	2026-09-11 09:00:00
+1	Alex Johnson	alex@example.com	SQL Practice	2026-09-12 10:00:00
+2	Jordan Smith	jordan@example.com	Databases	2026-09-13 11:00:00
+3	Taylor Brown	taylor@example.com	Python	2026-09-14 12:00:00
+4	Morgan Davis	morgan@example.com	Data Engineering	2026-09-15 13:00:00
+5	Casey Wilson	casey@example.com	Pandas	2026-09-16 14:00:00
